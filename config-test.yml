@@ -1,1 +1,2 @@
-config-test
+config:
+  info: 读取到config-test消息
