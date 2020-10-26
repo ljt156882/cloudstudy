@@ -1,1 +1,2 @@
-config-prop
+config:
+  info: 读取到config-prop消息
