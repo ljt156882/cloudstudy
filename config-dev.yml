@@ -1,1 +1,2 @@
-config-dev
+config:
+  info: 读取到config-dev消息
